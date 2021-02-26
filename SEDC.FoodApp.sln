@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.FoodApp.Web", "SEDC.FoodApp.Web\SEDC.FoodApp.Web.csproj", "{9C451331-CF94-4DBB-89CA-1216164D5EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.FoodApp.Services", "SEDC.FoodApp.Services\SEDC.FoodApp.Services.csproj", "{CC582BF7-3ADE-4520-BE30-7F033979ECAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.FoddApp.DataAccess", "SEDC.FoddApp.DataAccess\SEDC.FoddApp.DataAccess.csproj", "{7B9E7D3F-AB73-4172-9CA4-F1333291C968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.FoodApp.DomainModels", "SEDC.FoodaApp.DomainModels\SEDC.FoodApp.DomainModels.csproj", "{1AD9DB5F-23F6-46F4-948D-0D250ECA1DD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.FoodApp.RequestModels", "SEDC.FoodApp.RequestModels\SEDC.FoodApp.RequestModels.csproj", "{0B4F742C-2E6D-49F5-97CB-03790878ACC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C451331-CF94-4DBB-89CA-1216164D5EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C451331-CF94-4DBB-89CA-1216164D5EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C451331-CF94-4DBB-89CA-1216164D5EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C451331-CF94-4DBB-89CA-1216164D5EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC582BF7-3ADE-4520-BE30-7F033979ECAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC582BF7-3ADE-4520-BE30-7F033979ECAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC582BF7-3ADE-4520-BE30-7F033979ECAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC582BF7-3ADE-4520-BE30-7F033979ECAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9E7D3F-AB73-4172-9CA4-F1333291C968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9E7D3F-AB73-4172-9CA4-F1333291C968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9E7D3F-AB73-4172-9CA4-F1333291C968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9E7D3F-AB73-4172-9CA4-F1333291C968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD9DB5F-23F6-46F4-948D-0D250ECA1DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD9DB5F-23F6-46F4-948D-0D250ECA1DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD9DB5F-23F6-46F4-948D-0D250ECA1DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD9DB5F-23F6-46F4-948D-0D250ECA1DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4F742C-2E6D-49F5-97CB-03790878ACC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4F742C-2E6D-49F5-97CB-03790878ACC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4F742C-2E6D-49F5-97CB-03790878ACC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4F742C-2E6D-49F5-97CB-03790878ACC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F026BA55-6DD3-4CC8-AACB-22E10769765C}
+	EndGlobalSection
+EndGlobal
